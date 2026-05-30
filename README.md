@@ -1,4 +1,4 @@
-# Naveen Madhav Sereddy
+# Naveen Sereddy
 
 **UI/UX Designer | Web & Mobile Products**
 Kansas City, KS — Open to Relocation

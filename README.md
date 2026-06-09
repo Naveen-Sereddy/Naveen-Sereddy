@@ -40,7 +40,7 @@ and a 30+ screen prototype with a full design system and WCAG 2.1 AA compliance.
 Tools: Figma, Miro, Google Forms
 
 **FinFlow — B2B Expense Management Dashboard**
-Full UX process for a B2B expense platform from stakeholder interviews
+Full UX process for a B2B expense platform from competitive research
 through two rounds of usability testing. Improved first-try task completion
 from 73% to 89%. Designed 30+ desktop screens and a mobile submission flow.
 Tools: Figma, Maze

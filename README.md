@@ -1,7 +1,7 @@
 # Naveen Madhav Sereddy
 
 **UI/UX Designer | Web & Mobile Products**
-Kansas City, KS — Open to Relocation
+Overland Park, KS — Open to Relocation
 
 ---
 
@@ -69,3 +69,4 @@ Google UX Design Certificate (In Progress) — Coursera, 2026
 
 Email: naveen.workpath@gmail.com
 LinkedIn: linkedin.com/in/naveensereddy
+Portfolio: https://naveen-madhav.vercel.app/

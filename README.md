@@ -1,4 +1,4 @@
-# Naveen Madhav
+# Naveen Sereddy
 
 **UI/UX Designer | Web & Mobile Products**
 Overland Park, KS — Open to Relocation

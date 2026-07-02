@@ -65,8 +65,6 @@ Coursework: User Interface Design, Human-Computer Interaction, Web Technologies
 
 B.Tech. Computer Science, First Class Distinction — Bharath University (2017 to 2021)
 
-Google UX Design Certificate (In Progress) — Coursera, 2026
-
 ---
 
 ## Get in Touch

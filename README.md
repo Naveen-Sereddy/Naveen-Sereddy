@@ -21,10 +21,10 @@ for UI components alongside the dev team.
 
 ## What I Work With
 
-**Design:** Figma, Miro, Maze
+**Design:** Figma, Miro, Maze, Design Tokens
 **Process:** User Research, Wireframing, Prototyping, Usability Testing,
 Information Architecture, Design Systems, Accessibility (WCAG 2.1),
-Journey Mapping, Card Sorting, Competitive Analysis
+Journey Mapping, Card Sorting, Competitive Analysis, AI Product Design
 
 **Development (Supporting):** React, HTML5, CSS3, JavaScript, Tailwind CSS
 
@@ -32,12 +32,9 @@ Journey Mapping, Card Sorting, Competitive Analysis
 
 ## Selected Projects
 
-**MedBridge — Healthcare Patient Portal Redesign**
-End-to-end redesign of a patient portal covering appointments, prescriptions,
-medical records, and billing. Started with hands-on competitive research across
-MyChart, Zocdoc, and Teladoc, then built personas, user journeys, wireframes,
-and a 30+ screen prototype with a full design system and WCAG 2.1 AA compliance.
-Tools: Figma, Miro, Google Forms
+**Navi — AI Financial Wellness Coach**
+End-to-end design of a B2B AI financial wellness agent embedded in Slack, Workday, and BambooHR. Conducted 19 user interviews, built personas and user journeys, then validated the flow with an 8-person usability study achieving a 38-second time-to-act and 4.4/5 trust rating. Designed 8 interactive screens with a full design token system and WCAG 2.1 AA compliance.
+Tools: Figma, Maze, FigJam
 
 **FinFlow — B2B Expense Management Dashboard**
 Full UX process for a B2B expense platform from competitive research
@@ -52,6 +49,13 @@ to React development, Netlify deployment, SEO, and ongoing maintenance.
 Live at binsanddeals.com
 Tools: React, Tailwind CSS, Figma, Framer Motion
 
+**MedBridge — Healthcare Patient Portal Redesign**
+End-to-end redesign of a patient portal covering appointments, prescriptions,
+medical records, and billing. Started with hands-on competitive research across
+MyChart, Zocdoc, and Teladoc, then built personas, user journeys, wireframes,
+and a 30+ screen prototype with a full design system and WCAG 2.1 AA compliance.
+Tools: Figma, Miro, Google Forms
+
 ---
 
 ## Education
@@ -61,12 +65,10 @@ Coursework: User Interface Design, Human-Computer Interaction, Web Technologies
 
 B.Tech. Computer Science, First Class Distinction — Bharath University (2017 to 2021)
 
-Google UX Design Certificate (In Progress) — Coursera, 2026
-
 ---
 
 ## Get in Touch
 
 Email: naveen.workpath@gmail.com
-LinkedIn: linkedin.com/in/naveensereddy
-Portfolio: https://naveen-madhav.vercel.app/
+LinkedIn: [linkedin.com/in/naveensereddy](https://www.linkedin.com/in/naveensereddy/)
+Portfolio: https://naveen-madhav.vercel.app/.

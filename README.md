@@ -36,13 +36,6 @@ Journey Mapping, Card Sorting, Competitive Analysis, AI Product Design
 End-to-end design of a B2B AI financial wellness agent embedded in Slack, Workday, and BambooHR. Conducted 19 user interviews, built personas and user journeys, then validated the flow with an 8-person usability study achieving a 38-second time-to-act and 4.4/5 trust rating. Designed 8 interactive screens with a full design token system and WCAG 2.1 AA compliance.
 Tools: Figma, Maze, FigJam
 
-**MedBridge — Healthcare Patient Portal Redesign**
-End-to-end redesign of a patient portal covering appointments, prescriptions,
-medical records, and billing. Started with hands-on competitive research across
-MyChart, Zocdoc, and Teladoc, then built personas, user journeys, wireframes,
-and a 30+ screen prototype with a full design system and WCAG 2.1 AA compliance.
-Tools: Figma, Miro, Google Forms
-
 **FinFlow — B2B Expense Management Dashboard**
 Full UX process for a B2B expense platform from competitive research
 through two rounds of usability testing. Improved first-try task completion
@@ -55,6 +48,13 @@ from scratch. Handled everything from information architecture and visual design
 to React development, Netlify deployment, SEO, and ongoing maintenance.
 Live at binsanddeals.com
 Tools: React, Tailwind CSS, Figma, Framer Motion
+
+**MedBridge — Healthcare Patient Portal Redesign**
+End-to-end redesign of a patient portal covering appointments, prescriptions,
+medical records, and billing. Started with hands-on competitive research across
+MyChart, Zocdoc, and Teladoc, then built personas, user journeys, wireframes,
+and a 30+ screen prototype with a full design system and WCAG 2.1 AA compliance.
+Tools: Figma, Miro, Google Forms
 
 ---
 

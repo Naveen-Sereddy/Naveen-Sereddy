@@ -71,4 +71,4 @@ B.Tech. Computer Science, First Class Distinction — Bharath University (2017 t
 
 Email: naveen.workpath@gmail.com
 LinkedIn: [linkedin.com/in/naveensereddy](https://www.linkedin.com/in/naveensereddy/)
-Portfolio: https://naveen-madhav.vercel.app/.
+Portfolio: https://naveen-sereddy.vercel.app/.

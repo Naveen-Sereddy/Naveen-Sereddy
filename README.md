@@ -2,6 +2,7 @@
 
 **UI/UX Designer | Web & Mobile Products**
 Overland Park, KS — Open to Relocation
+🔗 [naveensereddy.com](https://naveensereddy.com)
 
 ---
 
@@ -71,4 +72,4 @@ B.Tech. Computer Science, First Class Distinction — Bharath University (2017 t
 
 Email: naveen.workpath@gmail.com
 LinkedIn: [linkedin.com/in/naveensereddy](https://www.linkedin.com/in/naveensereddy/)
-Portfolio: https://naveen-sereddy.vercel.app/.
+Portfolio: naveensereddy.com

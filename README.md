@@ -2,6 +2,7 @@
 
 **UI/UX Designer | Web & Mobile Products**
 Overland Park, KS — Open to Relocation
+🔗 [naveensereddy.com](https://naveensereddy.com)
 
 ---
 

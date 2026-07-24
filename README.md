@@ -1,8 +1,8 @@
 # Naveen Sereddy
 
 **UI/UX Designer | Web & Mobile Products**
-Overland Park, KS — Open to Relocation
-🔗 [naveensereddy.com](https://naveensereddy.com)
+Overland Park, KS | Open to Relocation
+[naveensereddy.com](https://naveensereddy.com)
 
 ---
 
@@ -33,24 +33,24 @@ Journey Mapping, Card Sorting, Competitive Analysis, AI Product Design
 
 ## Selected Projects
 
-**Navi — AI Financial Wellness Coach**
+**Navi: AI Financial Wellness Coach**
 End-to-end design of a B2B AI financial wellness agent embedded in Slack, Workday, and BambooHR. Conducted 19 user interviews, built personas and user journeys, then validated the flow with an 8-person usability study achieving a 38-second time-to-act and 4.4/5 trust rating. Designed 8 interactive screens with a full design token system and WCAG 2.1 AA compliance.
 Tools: Figma, Maze, FigJam
 
-**FinFlow — B2B Expense Management Dashboard**
+**FinFlow: B2B Expense Management Dashboard**
 Full UX process for a B2B expense platform from competitive research
 through two rounds of usability testing. Improved first-try task completion
 from 73% to 89%. Designed 30+ desktop screens and a mobile submission flow.
 Tools: Figma, Maze
 
-**Bins and Deals — Business Website**
+**Bins and Deals: Business Website**
 Designed and built the complete marketing website for a retail liquidation store
 from scratch. Handled everything from information architecture and visual design
 to React development, Netlify deployment, SEO, and ongoing maintenance.
 Live at binsanddeals.com
 Tools: React, Tailwind CSS, Figma, Framer Motion
 
-**MedBridge — Healthcare Patient Portal Redesign**
+**MedBridge: Healthcare Patient Portal Redesign**
 End-to-end redesign of a patient portal covering appointments, prescriptions,
 medical records, and billing. Started with hands-on competitive research across
 MyChart, Zocdoc, and Teladoc, then built personas, user journeys, wireframes,
@@ -61,10 +61,10 @@ Tools: Figma, Miro, Google Forms
 
 ## Education
 
-M.S. Computer Science — Saint Louis University, St. Louis, MO (2022 to 2023)
+M.S. Computer Science, Saint Louis University, St. Louis, MO (2022 to 2023)
 Coursework: User Interface Design, Human-Computer Interaction, Web Technologies
 
-B.Tech. Computer Science, First Class Distinction — Bharath University (2017 to 2021)
+B.Tech. Computer Science, First Class Distinction, Bharath University (2017 to 2021)
 
 ---
 

@@ -27,11 +27,16 @@ for UI components alongside the dev team.
 Information Architecture, Design Systems, Accessibility (WCAG 2.1),
 Journey Mapping, Card Sorting, Competitive Analysis, AI Product Design
 
-**Development (Supporting):** React, HTML5, CSS3, JavaScript, Tailwind CSS
+**Development (Supporting):** React, Next.js, TypeScript, HTML5, CSS3, JavaScript, Tailwind CSS, RAG pipelines & LLM integration (Gemini API), Redis
 
 ---
 
 ## Selected Projects
+
+**Testimonium: AI Research Assistant for SEC Filings**
+Designed and built a production AI research tool for an equity research team (client engagement, NDA under agreement) that answers questions about SEC 10-K filings with page-level citations back to the source document. Owned the full process end to end: analyst shadowing and discovery, the RAG pipeline (retrieval, embeddings, generation), and the shipped Next.js frontend. Confidence scoring is decoupled from retrieval strength, so a refusal never gets dressed up as a confident answer, and every citation links back to the exact page it came from.
+Live at testimonium.vercel.app
+Tools: Next.js, TypeScript, Tailwind CSS, Google Gemini, Upstash Redis, Figma
 
 **Navi: AI Financial Wellness Coach**
 End-to-end design of a B2B AI financial wellness agent embedded in Slack, Workday, and BambooHR. Conducted 19 user interviews, built personas and user journeys, then validated the flow with an 8-person usability study achieving a 38-second time-to-act and 4.4/5 trust rating. Designed 8 interactive screens with a full design token system and WCAG 2.1 AA compliance.
@@ -42,13 +47,6 @@ Full UX process for a B2B expense platform from competitive research
 through two rounds of usability testing. Improved first-try task completion
 from 73% to 89%. Designed 30+ desktop screens and a mobile submission flow.
 Tools: Figma, Maze
-
-**Bins and Deals: Business Website**
-Designed and built the complete marketing website for a retail liquidation store
-from scratch. Handled everything from information architecture and visual design
-to React development, Netlify deployment, SEO, and ongoing maintenance.
-Live at binsanddeals.com
-Tools: React, Tailwind CSS, Figma, Framer Motion
 
 **MedBridge: Healthcare Patient Portal Redesign**
 End-to-end redesign of a patient portal covering appointments, prescriptions,

@@ -1,22 +1,30 @@
 # Naveen Sereddy
 
-**UI/UX Designer | Web & Mobile Products**
+**Product Designer | AI Product Design | UX**
 Overland Park, KS | Open to Relocation
 [naveensereddy.com](https://naveensereddy.com)
 
 ---
 
-I'm a UI/UX Designer with a front-end background in React and HTML/CSS.
+I'm a Product Designer with a front-end background in React and HTML/CSS,
+now focused on AI product design and human-AI interaction.
 That combination means I design with real implementation constraints in mind
 and can work directly alongside developers without losing anything in translation.
 
 Currently designing screens for a financial services platform at Bill Holdings (BILL),
 where I maintain a 40+ component design system, run usability tests every sprint,
-and work embedded in product and engineering cycles rather than handing off from a distance.
+and reorganized the dashboard information architecture using card-sorting research,
+cutting task-completion time by 22%.
 
-Before this I was at Fidelity Investments, designing wireframes and high-fidelity mockups
-for client web applications while also writing the React and HTML/CSS code
+Before this I was at Fidelity Investments, leading user interviews and competitive
+analysis on a B2C product, designing wireframes and high-fidelity mockups
+for client web applications, and writing the React and HTML/CSS code
 for UI components alongside the dev team.
+
+Before Fidelity, I was a UI/UX Designer at Atos Syntel in Chennai, India,
+designing responsive web and mobile experiences and building reusable UI
+patterns for dashboards, forms, navigation, tables, cards, and alerts,
+the early groundwork for the design-systems work I do now.
 
 ---
 
